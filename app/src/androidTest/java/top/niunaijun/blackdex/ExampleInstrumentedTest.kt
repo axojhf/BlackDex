@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex
+package x.bdex
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

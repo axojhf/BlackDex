@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "top.niunaijun.blackdex"
+        applicationId "x.bdex"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 6
@@ -22,7 +22,7 @@ android {
 
     productFlavors {
         BlackDex32 {
-            applicationId "top.niunaijun.blackdexa32"
+            applicationId "x.bdex32"
             ndk {
                 abiFilters "armeabi-v7a"
             }
@@ -30,7 +30,7 @@ android {
         }
 
         BlackDex64 {
-            applicationId "top.niunaijun.blackdexa64"
+            applicationId "x.bdex64"
             ndk {
                 abiFilters "arm64-v8a"
             }

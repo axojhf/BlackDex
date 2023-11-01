@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex
+package x.bdex
 
 import org.junit.Test
 
